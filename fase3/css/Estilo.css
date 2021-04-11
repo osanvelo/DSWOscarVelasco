@@ -1,0 +1,45 @@
+body{
+    padding:20px;
+    margin:20px 60px;
+    font-family:Arial;
+    font-size: 18px;
+    background-color:silver;
+}
+
+article{
+    width: 95%;
+    height: 950px;
+    background-color: white;
+    margin: 20px 20px 20px 20px ;
+    border:4px inset purple;
+}
+
+header{
+    width: 96%;
+    height: 100px;
+    background-color: D0FA58;
+    margin: 20px 20px 20px 20px ;
+    border:4px inset purple;
+}
+
+nav{
+    width: 18,5%;
+    height: 820px;
+    background-color: D0FA58;
+    margin: 20px 20px 20px 20px ;
+    float: left;
+    border:4px inset purple;
+    text-align:left;
+}
+
+footer{
+    width: 96%;
+    height: 120px;
+    background-color: D0FA58;
+    margin: 20px 20px 20px 20px ;
+    border-color: black;
+    border:2px;
+    border:4px inset purple;
+    font-family:Arial;
+    font-size: 30px;
+}
